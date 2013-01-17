@@ -264,9 +264,10 @@ bbsleft_main()
                 "</td></tr>\n");
 //	printf("&nbsp;&nbsp;<a target=f3 href=bbsall>所有讨论区</a><br>\n");
 //	printf("<hr>");
-	printf("<tr><form action=home target=f3><td colspan=2>\n"
-	       "&nbsp;&nbsp;&nbsp;&nbsp;<input type=text name=board maxlength=20 "
-	       "size=9 onclick=\"this.select()\" value=选择讨论区><input type=submit class=sumbitshort value=go></td></form></tr>\n");
+//这里是BBS左边栏的搜索框
+	printf("<tr><form action=bbssbs target=f3><td colspan=2>\n"
+	       "&nbsp;&nbsp;&nbsp;&nbsp;<input type=text name=keyword maxlength=20 "
+	       "size=9 onclick=\"this.select()\" value=请输入关键字><input type=submit class=sumbitshort value=搜索版面></td></form></tr>\n");
 //	printf("&nbsp;&nbsp;<a href='telnet:%s'>Telnet登录</a>\n", BBSHOST);
 /*	if (!loginok || isguest)
 		printf
