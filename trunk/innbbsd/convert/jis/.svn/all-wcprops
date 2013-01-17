@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/jis
+END
+sinocogj.cod
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/jis/sinocogj.cod
+END
+sinocojg.cod
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/jis/sinocojg.cod
+END
+patch.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/jis/patch.c
+END
+sinocode.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/jis/sinocode.c
+END
+jis.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/jis/jis.c
+END
+sinocobg.cod
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/jis/sinocobg.cod
+END
+sinocogb.cod
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/jis/sinocogb.cod
+END
+sinocobj.cod
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/jis/sinocobj.cod
+END
+sinocojb.cod
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/jis/sinocojb.cod
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/jis/Makefile
+END
+b2j
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/jis/b2j
+END
+j2b
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/jis/j2b
+END

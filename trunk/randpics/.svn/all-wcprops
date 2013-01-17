@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/src_1.8/!svn/ver/292/trunk/randpics
+END
+using.pl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/randpics/using.pl
+END
+BMY_MAINPIC_passwd.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/src_1.8/!svn/ver/292/trunk/randpics/BMY_MAINPIC_passwd.pl
+END
+login.pl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/randpics/login.pl
+END
+logout.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/randpics/logout.pl
+END
+BMY_MAINPIC_upload.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/src_1.8/!svn/ver/292/trunk/randpics/BMY_MAINPIC_upload.pl
+END
+link.pl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/randpics/link.pl
+END
+uploaded.pl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/randpics/uploaded.pl
+END
+showpics.pl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/randpics/showpics.pl
+END
+used.pl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/randpics/used.pl
+END
+passwd.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/randpics/passwd.pl
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/randpics/Makefile
+END
+upload.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/randpics/upload.pl
+END

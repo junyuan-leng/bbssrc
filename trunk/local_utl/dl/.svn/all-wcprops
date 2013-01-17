@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/dl
+END
+an.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/dl/an.c
+END
+an.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/dl/an.h
+END
+anall.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/dl/anall.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/dl/Makefile
+END

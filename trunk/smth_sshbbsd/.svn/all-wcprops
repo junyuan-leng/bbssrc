@@ -1,0 +1,557 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd
+END
+bufaux.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/bufaux.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/AUTHORS
+END
+socketpair.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/socketpair.c
+END
+memmove.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/memmove.c
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/depcomp
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/config.h
+END
+cipher.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/cipher.c
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/crc32.c
+END
+cipher.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/cipher.h
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/crc32.h
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/configure.ac
+END
+strerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/strerror.c
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/md5.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/COPYING
+END
+makedist.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/makedist.sh
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/md5.h
+END
+mpaux.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/mpaux.c
+END
+README.DEATTACK
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/README.DEATTACK
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/NEWS
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/compress.c
+END
+emulate.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/emulate.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/Makefile
+END
+gnu-COPYING-GPL
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/gnu-COPYING-GPL
+END
+mpaux.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/mpaux.h
+END
+compress.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/compress.h
+END
+emulate.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/emulate.h
+END
+idea.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/idea.c
+END
+rsaglue.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/rsaglue.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/ChangeLog
+END
+config.status
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/config.status
+END
+README.SECURERPC
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/README.SECURERPC
+END
+idea.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/idea.h
+END
+sshbbsd
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/sshbbsd
+END
+includes.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/includes.h
+END
+des.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/des.c
+END
+getput.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/getput.h
+END
+blowfish.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/blowfish.c
+END
+canohost.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/canohost.c
+END
+userfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/userfile.c
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/config.h.in
+END
+des.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/des.h
+END
+blowfish.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/blowfish.h
+END
+userfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/userfile.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/version.h
+END
+xmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/xmalloc.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/configure
+END
+serverloop.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/serverloop.c
+END
+authfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/authfile.c
+END
+ssh.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/ssh.h
+END
+randoms.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/randoms.c
+END
+snprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/snprintf.c
+END
+sshmd5.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/sshmd5.c
+END
+config.log
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/config.log
+END
+xmalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/xmalloc.h
+END
+packet.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/packet.c
+END
+README.CIPHERS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/README.CIPHERS
+END
+randoms.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/randoms.h
+END
+snprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/snprintf.h
+END
+README.SECURID
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/README.SECURID
+END
+libdes-README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/libdes-README
+END
+packet.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/packet.h
+END
+deattack.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/deattack.c
+END
+deattack.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/deattack.h
+END
+OVERVIEW
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/OVERVIEW
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/INSTALL
+END
+match.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/match.c
+END
+tildexpand.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/tildexpand.c
+END
+auth-passwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/auth-passwd.c
+END
+signals.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/signals.c
+END
+libdes-ARTISTIC
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/libdes-ARTISTIC
+END
+sshd.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/sshd.c
+END
+buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/buffer.c
+END
+stamp-h1
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/stamp-h1
+END
+README.TIS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/README.TIS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/README
+END
+acconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/acconfig.h
+END
+buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/buffer.h
+END
+random.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/random.c
+END
+putenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/putenv.c
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/TODO
+END
+log-server.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/log-server.c
+END
+rsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/rsa.c
+END
+servconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/servconf.c
+END
+libdes-COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/libdes-COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/Makefile.am
+END
+config.lib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/config.lib
+END
+bufaux.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/bufaux.c
+END
+rsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/rsa.h
+END
+servconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/servconf.h
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/smth_sshbbsd/install-sh
+END

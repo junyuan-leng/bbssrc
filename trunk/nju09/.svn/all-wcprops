@@ -1,0 +1,815 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/src_1.8/!svn/ver/311/trunk/nju09
+END
+bbsdmulan.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsdmulan.c
+END
+bbstdoc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbstdoc.c
+END
+bbsplan.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsplan.c
+END
+test_ytml.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/nju09/test_ytml.c
+END
+bbspst.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/298/trunk/nju09/bbspst.c
+END
+bbschangestyle.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbschangestyle.c
+END
+bbsdefcss.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsdefcss.c
+END
+bbsdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsdt.c
+END
+bbsfoot.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/309/trunk/nju09/bbsfoot.c
+END
+bbsusr.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsusr.c
+END
+bbsbkncon.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsbkncon.c
+END
+bbsupdatelastpost.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsupdatelastpost.c
+END
+bbsjs.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsjs.c
+END
+bbslt.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbslt.c
+END
+bbsshowfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsshowfile.c
+END
+bbsmail.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsmail.c
+END
+bbsfwdmail.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsfwdmail.c
+END
+bbsgcon.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsgcon.c
+END
+bbsfindacc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsfindacc.c
+END
+bbsccc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsccc.c
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/nju09/test.c
+END
+mulan.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/nju09/mulan.h
+END
+bbsdoc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsdoc.c
+END
+bbslogin.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbslogin.c
+END
+bbsman.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsman.c
+END
+bbstmpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbstmpl.c
+END
+bbsvote.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsvote.c
+END
+bbsmovie.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsmovie.c
+END
+bbsmnote.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsmnote.c
+END
+bbssel.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbssel.c
+END
+bbsnick.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsnick.c
+END
+bbsmsg.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsmsg.c
+END
+bbssndmail.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbssndmail.c
+END
+bbsupload.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsupload.py
+END
+bbsanc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsanc.c
+END
+bbstcon.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbstcon.c
+END
+bbst.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbst.c
+END
+bbsselstyle.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsselstyle.c
+END
+bbssechand.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbssechand.c
+END
+bbsx.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsx.c
+END
+bbsdelmail.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsdelmail.c
+END
+bbslogout.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbslogout.c
+END
+bbschat.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbschat.c
+END
+bbsbrdadd.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsbrdadd.c
+END
+bbskick.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbskick.c
+END
+bbsbfind.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsbfind.c
+END
+bbsdenydel.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsdenydel.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/nju09/README
+END
+bbsleft.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/309/trunk/nju09/bbsleft.c
+END
+bbsdoreg.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsdoreg.c
+END
+bbsform.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsform.c
+END
+bbstopb10.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbstopb10.c
+END
+bbsdenyadd.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsdenyadd.c
+END
+bbsstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsstat.c
+END
+bbsqry.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsqry.c
+END
+bbsreg.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsreg.c
+END
+bbs0an.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbs0an.c
+END
+bbscon.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbscon.c
+END
+bbsfwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsfwd.c
+END
+bbssig.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbssig.c
+END
+bbsupload.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsupload.c
+END
+bbsgetmsg.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsgetmsg.c
+END
+bbsclear.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsclear.c
+END
+bbsdenyall.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsdenyall.c
+END
+bbsmailmsg.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsmailmsg.c
+END
+bbspwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbspwd.c
+END
+upload.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/upload.c
+END
+ytml.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/nju09/ytml.c
+END
+bbsnot.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsnot.c
+END
+ytml.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/nju09/ytml.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/Makefile
+END
+bbsincon.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsincon.c
+END
+bbsalluser.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsalluser.c
+END
+bbsresetpass.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsresetpass.c
+END
+bbsmybrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsmybrd.c
+END
+bclass.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bclass.c
+END
+bbsfind.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsfind.c
+END
+bbsmdoc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsmdoc.c
+END
+bbssnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/298/trunk/nju09/bbssnd.c
+END
+bbsmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsmain.c
+END
+bclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bclass.h
+END
+bbsshownav.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsshownav.c
+END
+bbsedit.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsedit.c
+END
+getuser.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/getuser.c
+END
+bbsnotepad.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsnotepad.c
+END
+bbsnewmail.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsnewmail.c
+END
+bbsparm.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsparm.c
+END
+bbsmmdoc.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsmmdoc.c
+END
+bbsboa.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/311/trunk/nju09/bbsboa.c
+END
+bbsdel.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsdel.c
+END
+bbsattach.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsattach.c
+END
+bbsufind.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsufind.c
+END
+bbsfindpass.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsfindpass.c
+END
+bbspstmail.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbspstmail.c
+END
+bbsred.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsred.c
+END
+bbsfdel.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsfdel.c
+END
+bbslib.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/294/trunk/nju09/bbslib.h
+END
+bbsucss.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsucss.c
+END
+bbslform.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbslform.c
+END
+bbstty.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbstty.c
+END
+bbssetscript.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbssetscript.c
+END
+bbsscanreg.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsscanreg.c
+END
+bbsmailcon.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsmailcon.c
+END
+boardrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/boardrc.c
+END
+bbssecfly.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbssecfly.c
+END
+bbseditmail.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbseditmail.c
+END
+bbshome.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbshome.c
+END
+deny_users.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/deny_users.c
+END
+bbscloak.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbscloak.c
+END
+bbscccmail.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbscccmail.c
+END
+bbsinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsinfo.c
+END
+bbsfadd.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsfadd.c
+END
+regreq.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/regreq.c
+END
+bbssendmsg.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbssendmsg.c
+END
+bbscon1.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbscon1.c
+END
+bbsadl.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsadl.c
+END
+bbsbkndoc.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsbkndoc.c
+END
+bbsbadlogins.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsbadlogins.c
+END
+bbstop10.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/301/trunk/nju09/bbstop10.c
+END
+bbsrss.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsrss.c
+END
+bbsfriend.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsfriend.c
+END
+bbsindex.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsindex.c
+END
+bbsall.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsall.c
+END
+ytml_func.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/nju09/ytml_func.c
+END
+bbseva.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbseva.c
+END
+bbsdelmsg.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsdelmsg.c
+END
+bbsgdoc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsgdoc.c
+END
+bbsbknsel.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsbknsel.c
+END
+bbsfall.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsfall.c
+END
+bbssbs.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbssbs.c
+END
+bbsmywww.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsmywww.c
+END
+tshirt.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/nju09/tshirt.h
+END
+bbstfind.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbstfind.c
+END
+bbsnewleft.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/nju09/bbsnewleft.c
+END
+BBSLIB.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/294/trunk/nju09/BBSLIB.c
+END

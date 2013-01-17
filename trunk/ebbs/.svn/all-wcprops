@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/src_1.8/!svn/ver/292/trunk/ebbs
+END
+keys.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/src_1.8/!svn/ver/292/trunk/ebbs/keys.h
+END
+chess.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/ebbs/chess.c
+END
+chessd.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/ebbs/chessd.c
+END

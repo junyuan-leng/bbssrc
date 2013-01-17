@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/src_1.8/!svn/ver/292/trunk/atthttpd
+END
+mimetype.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/atthttpd/mimetype.h
+END
+sv_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/atthttpd/sv_core.c
+END
+conn.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/atthttpd/conn.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/atthttpd/main.c
+END
+sv_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/atthttpd/sv_core.h
+END
+mimetype.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/atthttpd/mimetype.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/atthttpd/config.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/atthttpd/Makefile
+END
+conn.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/atthttpd/conn.c
+END

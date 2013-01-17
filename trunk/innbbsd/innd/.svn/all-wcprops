@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/innd
+END
+rfc931.pl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/innd/rfc931.pl
+END
+bntplink
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/innd/bntplink
+END
+mailpost
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/innd/mailpost
+END
+parsedate.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/innd/parsedate.c
+END
+bbspost.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/innd/bbspost.c
+END
+tcp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/innd/tcp.pl
+END
+expirepost
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/innd/expirepost
+END
+bmpost
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/innd/bmpost
+END
+bbslib.pl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/innd/bbslib.pl
+END
+timefmt.y
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/innd/timefmt.y
+END
+innbbslib.pl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/innd/innbbslib.pl
+END
+in.bntpd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/innd/in.bntpd
+END
+bbspost
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/innd/bbspost
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/innd/Makefile
+END
+inntobbs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/innd/inntobbs
+END

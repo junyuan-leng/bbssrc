@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/src_1.8/!svn/ver/292/trunk/yftpd
+END
+options.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/yftpd/options.h
+END
+pathop.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/yftpd/pathop.h
+END
+ftpmotd.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/yftpd/ftpmotd.in
+END
+commands.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/yftpd/commands.c
+END
+yftpdutmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/yftpd/yftpdutmp.h
+END
+commands.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/yftpd/commands.h
+END
+login.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/yftpd/login.c
+END
+dirlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/yftpd/dirlist.c
+END
+mystring.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/yftpd/mystring.c
+END
+login.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/yftpd/login.h
+END
+dirlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/yftpd/dirlist.h
+END
+mystring.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/yftpd/mystring.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/yftpd/main.c
+END
+logging.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/yftpd/logging.c
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/yftpd/main.h
+END
+logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/yftpd/logging.h
+END
+pathop.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/yftpd/pathop.c
+END
+ftpmotd
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/yftpd/ftpmotd
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/yftpd/Makefile
+END
+yftpdutmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/yftpd/yftpdutmp.c
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/src_1.8/!svn/ver/292/trunk/include
+END
+regular.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/include/regular.h
+END
+sec_hand.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/include/sec_hand.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/include/config.h
+END
+bbs.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/include/bbs.h
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/include/config.h.in
+END
+chinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/include/chinput.h
+END
+identify.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/include/identify.h
+END
+bbsgopher.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/include/bbsgopher.h
+END
+tmpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/include/tmpl.h
+END
+vote.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/include/vote.h
+END
+screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/include/screen.h
+END
+chat.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/include/chat.h
+END
+struct.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/include/struct.h
+END
+edit.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/include/edit.h
+END
+tmachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/include/tmachine.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/include/common.h
+END

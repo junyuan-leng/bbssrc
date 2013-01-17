@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src_1.8/!svn/ver/292/trunk/games/ncce
+END
+libncce.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/games/ncce/libncce.c
+END
+ncce.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/games/ncce/ncce.c
+END
+cgincce.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/games/ncce/cgincce.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/games/ncce/Makefile
+END
+ncce.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/games/ncce/ncce.h
+END

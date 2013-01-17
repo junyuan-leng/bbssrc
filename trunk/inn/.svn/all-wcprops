@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/src_1.8/!svn/ver/292/trunk/inn
+END
+bshm.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src_1.8/!svn/ver/292/trunk/inn/bshm.h
+END
+bbsfindout.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/inn/bbsfindout.c
+END
+bbsinnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/inn/bbsinnd.c
+END
+bbsoutd.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/inn/bbsoutd.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/inn/Makefile
+END

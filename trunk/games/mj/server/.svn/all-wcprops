@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/games/mj/server
+END
+mjgps.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/games/mj/server/mjgps.c
+END
+mjrec.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/games/mj/server/mjrec.c
+END
+mjgps.doc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src_1.8/!svn/ver/292/trunk/games/mj/server/mjgps.doc
+END
+mjgps.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/games/mj/server/mjgps.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src_1.8/!svn/ver/292/trunk/games/mj/server/Makefile
+END

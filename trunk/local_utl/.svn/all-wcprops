@@ -1,0 +1,701 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/src_1.8/!svn/ver/307/trunk/local_utl
+END
+logfreq.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/logfreq.c
+END
+refriend2
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/refriend2
+END
+update_class.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/update_class.sh
+END
+id_distr.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/id_distr.c
+END
+mergeb.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/mergeb.c
+END
+searcher.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/searcher.py
+END
+autodelfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/autodelfile.py
+END
+tuijian.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/tuijian.c
+END
+sumcgitime.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/sumcgitime.c
+END
+userip.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/userip.c
+END
+lib.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/lib.py
+END
+update_check_club.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/update_check_club.sh
+END
+showuser.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/showuser.c
+END
+refriend2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/refriend2.c
+END
+find_lost_mail.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/find_lost_mail.c
+END
+repsync.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/repsync.c
+END
+changeuser.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/changeuser.c
+END
+newboards.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/newboards.c
+END
+near.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/near.c
+END
+id_boards.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/id_boards.c
+END
+cpersonal.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/cpersonal.c
+END
+selpersonal.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/selpersonal.c
+END
+MakeIndex3.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/MakeIndex3.c
+END
+bbstop.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/bbstop.c
+END
+www.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/www.h
+END
+bmstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/bmstat.c
+END
+autoundeny.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/autoundeny.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/307/trunk/local_utl/Makefile
+END
+fixzapbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/fixzapbuf.c
+END
+bm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/bm.c
+END
+find_save_lost.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/find_save_lost.c
+END
+trans_bh.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/trans_bh.c
+END
+watchdog.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/watchdog.c
+END
+sendmail.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/sendmail.py
+END
+watchman.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/watchman.c
+END
+indexer.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/indexer.py
+END
+upgrade.old.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/upgrade.old.c
+END
+boardstat2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/boardstat2.c
+END
+reminder.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/reminder.c
+END
+bbsevad.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/bbsevad.c
+END
+bbsstatproc2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/bbsstatproc2.c
+END
+upersonal.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/upersonal.c
+END
+setdefaultkey.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/setdefaultkey.c
+END
+killsshbbsd.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/killsshbbsd.py
+END
+step1
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/step1
+END
+crontab.bbs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/crontab.bbs
+END
+sysrecord.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/sysrecord.c
+END
+trans_brc.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/trans_brc.c
+END
+autoclear.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/autoclear.c
+END
+bm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/bm2.c
+END
+ioanalysis.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/ioanalysis.py
+END
+boardscore.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/boardscore.c
+END
+fixdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/fixdir.c
+END
+filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/filter.c
+END
+check_ulevel.special
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/check_ulevel.special
+END
+otherbak.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/otherbak.sh
+END
+daily.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/daily.sh
+END
+auto_rm_fakedir.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/auto_rm_fakedir.c
+END
+bbsheavywork.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/bbsheavywork.sh
+END
+mvlogs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/mvlogs.sh
+END
+averun.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/averun.c
+END
+combine_arc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/combine_arc.c
+END
+annIndex.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/annIndex.c
+END
+checkspam.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/checkspam.py
+END
+bbsstatlog.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/bbsstatlog.c
+END
+searchLastMark.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/searchLastMark.c
+END
+pre-ioanalysis.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/pre-ioanalysis.py
+END
+heavywork.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/heavywork.sh
+END
+trans_fhbknh.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/trans_fhbknh.c
+END
+release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/release.sh
+END
+bbsstatlog.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/bbsstatlog.h
+END
+esearch.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/esearch.c
+END
+bbslogd.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/bbslogd.c
+END
+bbspop3d.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/bbspop3d.c
+END
+bfinger.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/bfinger.c
+END
+transuu2bin.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/transuu2bin.c
+END
+printSecLastUpdate.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/printSecLastUpdate.c
+END
+sortdir_all.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/sortdir_all.c
+END
+MakeIndex3.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/MakeIndex3.sh
+END
+findcore.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/findcore.sh
+END
+ptyexec.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/ptyexec.c
+END
+checkan.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/checkan.sh
+END
+newsec.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/newsec.c
+END
+save_brc.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/save_brc.c
+END
+postfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/postfile.c
+END
+tianqi.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/tianqi.c
+END
+sortdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/sortdir.c
+END
+fixtitle.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/fixtitle.c
+END
+bbsstatproclog.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/bbsstatproclog.c
+END
+nbstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/nbstat.c
+END
+backup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/backup.sh
+END
+upnew.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/upnew.c
+END
+2nd_expire.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/2nd_expire.c
+END
+addH.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/addH.c
+END
+nbstat.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/nbstat.h
+END
+keepping.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/keepping.c
+END
+searchDIR.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/searchDIR.c
+END
+gen_title.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/gen_title.c
+END
+clear_attach.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/clear_attach.c
+END
+clear_junk.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/clear_junk.c
+END
+newtop10.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/306/trunk/local_utl/newtop10.c
+END
+record.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/record.c
+END
+searchauther.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/searchauther.c
+END
+find_rm_lost.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/find_rm_lost.c
+END
+filtertop10.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/filtertop10.py
+END
+mailallmsg.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/mailallmsg.c
+END
+showwhoperm.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/showwhoperm.c
+END
+bbslists.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/bbslists.c
+END
+printSecLastMark.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/printSecLastMark.c
+END
+upswatch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/upswatch.sh
+END
+moneycenterClear.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/moneycenterClear.sh
+END
+upgrade.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/upgrade.c
+END
+check_ulevel.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/check_ulevel.c
+END
+finddf.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/finddf.c
+END
+boardrelation.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/boardrelation.py
+END
+auto_rm_junk.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src_1.8/!svn/ver/292/trunk/local_utl/auto_rm_junk.c
+END

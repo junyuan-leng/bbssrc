@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/src_1.8/!svn/ver/308/trunk/src
+END
+maintain.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/src/maintain.c
+END
+sendmsg.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/src/sendmsg.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/src/Makefile.in
+END
+delete.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/src/delete.c
+END
+sec_hand.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/src/sec_hand.c
+END
+1984.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src_1.8/!svn/ver/292/trunk/src/1984.c
+END
+bcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/src/bcache.c
+END
+announce.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/298/trunk/src/announce.c
+END
+bbs.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/src_1.8/!svn/ver/308/trunk/src/bbs.c
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/src_1.8/!svn/ver/292/trunk/src/io.c
+END
+term.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src_1.8/!svn/ver/292/trunk/src/term.c
+END
+proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/src_1.8/!svn/ver/292/trunk/src/proto.h
+END
+backnumber.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/src/backnumber.c
+END
+comm_lists.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/src/comm_lists.c
+END
+bbsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src_1.8/!svn/ver/292/trunk/src/bbsd.c
+END
+smth_screen.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/src/smth_screen.c
+END
+bbsgopher.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/src/bbsgopher.c
+END
+read.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src_1.8/!svn/ver/292/trunk/src/read.c
+END
+tmpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src_1.8/!svn/ver/292/trunk/src/tmpl.c
+END
+bbsnet.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/src/bbsnet.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src_1.8/!svn/ver/292/trunk/src/util.c
+END
+vote.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src_1.8/!svn/ver/292/trunk/src/vote.c
+END
+logger.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/src/logger.c
+END
+screen.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/src/screen.c
+END
+smth_screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/src/smth_screen.h
+END
+register.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/src/register.c
+END
+userinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/src/userinfo.c
+END
+xyz.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/src_1.8/!svn/ver/292/trunk/src/xyz.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/src/Makefile
+END
+editboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/src/editboard.c
+END
+bm.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/src_1.8/!svn/ver/292/trunk/src/bm.c
+END
+postheader.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/src/postheader.c
+END
+convcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/src/convcode.c
+END
+addressbook.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/src/addressbook.c
+END
+regular.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/src/regular.c
+END
+more.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src_1.8/!svn/ver/292/trunk/src/more.c
+END
+thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/src/thread.c
+END
+namecomplete.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/src/namecomplete.c
+END
+boards.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/src/boards.c
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src_1.8/!svn/ver/292/trunk/src/list.c
+END
+identify.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/src/identify.c
+END
+telnet0.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/src/telnet0.c
+END
+record.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/src/record.c
+END
+chat.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src_1.8/!svn/ver/292/trunk/src/chat.c
+END
+station.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/src/station.c
+END
+mail.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src_1.8/!svn/ver/292/trunk/src/mail.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src_1.8/!svn/ver/292/trunk/src/main.c
+END
+exec.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src_1.8/!svn/ver/292/trunk/src/exec.c
+END
+queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/src_1.8/!svn/ver/292/trunk/src/queue.c
+END
+edit.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src_1.8/!svn/ver/292/trunk/src/edit.c
+END
+fileshm.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/src/fileshm.c
+END
+bbstelnet.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/src/bbstelnet.h
+END
+stuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/src_1.8/!svn/ver/292/trunk/src/stuff.c
+END
+help.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src_1.8/!svn/ver/292/trunk/src/help.c
+END
+goodbye.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/src/goodbye.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/src/common.c
+END
+moneycenter.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/src/moneycenter.c
+END
+tmachine.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/src/tmachine.c
+END
+five.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src_1.8/!svn/ver/292/trunk/src/five.c
+END
+power_select.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/src/power_select.c
+END
+talk.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src_1.8/!svn/ver/292/trunk/src/talk.c
+END
+telnet.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/src_1.8/!svn/ver/292/trunk/src/telnet.c
+END

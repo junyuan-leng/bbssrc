@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/src_1.8/!svn/ver/292/trunk/software
+END
+libghthash-0.5.0.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/src_1.8/!svn/ver/292/trunk/software/libghthash-0.5.0.tar.gz
+END
+Makefile.Base
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/software/Makefile.Base
+END
+PyLucene-src-2.2.0-1.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/src_1.8/!svn/ver/292/trunk/software/PyLucene-src-2.2.0-1.tar.gz
+END
+libiconv-1.14.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/src_1.8/!svn/ver/292/trunk/software/libiconv-1.14.tar.gz
+END
+fcgi-2.2.2.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/src_1.8/!svn/ver/292/trunk/software/fcgi-2.2.2.tar.gz
+END
+libghthash-0.5.0-x86_64.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/src_1.8/!svn/ver/292/trunk/software/libghthash-0.5.0-x86_64.tar.gz
+END
+db-4.4.20.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src_1.8/!svn/ver/292/trunk/software/db-4.4.20.tar.gz
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/software/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/software/README
+END
+mod_conn.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/software/mod_conn.c
+END
+mod_redurl.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/software/mod_redurl.c
+END
+apachelimit.patch
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/src_1.8/!svn/ver/292/trunk/software/apachelimit.patch
+END
+libiconv.spec
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/software/libiconv.spec
+END

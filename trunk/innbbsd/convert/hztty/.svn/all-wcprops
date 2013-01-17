@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/hztty
+END
+dummy_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/hztty/dummy_main.c
+END
+hztty.1
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/hztty/hztty.1
+END
+tty.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/hztty/tty.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/hztty/log.c
+END
+b2g_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/hztty/b2g_tables.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/hztty/main.c
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/hztty/io.c
+END
+b2g.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/hztty/b2g.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/hztty/config.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/hztty/Makefile
+END
+hz2gb.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/hztty/hz2gb.c
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/convert/hztty/io.h
+END

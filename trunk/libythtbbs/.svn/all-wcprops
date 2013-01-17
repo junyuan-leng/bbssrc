@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs
+END
+sectree.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/sectree.h
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/misc.h
+END
+gensectree
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/gensectree
+END
+seclist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/seclist.txt
+END
+attach.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/attach.c
+END
+libiden.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/libiden.c
+END
+announce.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/announce.c
+END
+attach.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/attach.h
+END
+binaryattach.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/binaryattach.c
+END
+permissions.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/permissions.c
+END
+announce.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/announce.h
+END
+boardrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/boardrc.c
+END
+goodgbid.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/goodgbid.c
+END
+binaryattach.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/binaryattach.h
+END
+user.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/user.c
+END
+permissions.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/permissions.h
+END
+boardrc.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/boardrc.h
+END
+goodgbid.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/goodgbid.h
+END
+article.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/article.c
+END
+user.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/user.h
+END
+gensectree.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/gensectree.c
+END
+ythtbbs.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/ythtbbs.h
+END
+politics.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/politics.c
+END
+modetype.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/modetype.c
+END
+article.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/article.h
+END
+modetype.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/modetype.h
+END
+politics.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/politics.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/Makefile
+END
+regform.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/regform.c
+END
+bbseva.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/bbseva.c
+END
+docutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/docutil.c
+END
+regform.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/regform.h
+END
+bbseva.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/bbseva.h
+END
+docutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/docutil.h
+END
+modes.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/modes.h
+END
+record.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/record.c
+END
+seclist.local
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/seclist.local
+END
+record.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/record.h
+END
+msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/msg.c
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/board.c
+END
+sectreeop.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/sectreeop.c
+END
+sectree.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/sectree.c
+END
+msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/msg.h
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/misc.c
+END
+board.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/libythtbbs/board.h
+END

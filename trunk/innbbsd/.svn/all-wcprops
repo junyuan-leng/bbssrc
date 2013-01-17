@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd
+END
+bshm.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/bshm.h
+END
+wildmat.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/wildmat.c
+END
+bbslib.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/bbslib.h
+END
+daemon.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/daemon.c
+END
+bbsnnrp.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/bbsnnrp.c
+END
+daemon.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/daemon.h
+END
+innbbsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/innbbsd.c
+END
+dbzinnbbsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/dbzinnbbsd.c
+END
+dbz.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/dbz.c
+END
+innbbsd.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/innbbsd.h
+END
+dbz.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/dbz.h
+END
+nntp.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/nntp.h
+END
+port.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/port.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/Makefile
+END
+nocem.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/nocem.c
+END
+pmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/pmain.c
+END
+dbz_query_sample.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/dbz_query_sample.c
+END
+qp_conv.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/qp_conv.c
+END
+dbzserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/dbzserver.c
+END
+nocem.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/nocem.h
+END
+closeonexec.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/closeonexec.c
+END
+rfc931.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/rfc931.c
+END
+connectsock.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/connectsock.c
+END
+clibrary.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/clibrary.h
+END
+dbztool.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/dbztool.c
+END
+makedbz.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/makedbz.c
+END
+inntobbs.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/inntobbs.c
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/file.c
+END
+inndchannel.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/inndchannel.c
+END
+lang.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/lang.c
+END
+ctlinnbbsd.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/ctlinnbbsd.c
+END
+inntobbs.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/inntobbs.h
+END
+his.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/his.c
+END
+bbslink.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/bbslink.c
+END
+filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/filter.c
+END
+receive_article.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/receive_article.c
+END
+innbbsconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/innbbsconf.h
+END
+lang.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/lang.h
+END
+his.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/his.h
+END
+mkhistory.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/mkhistory.c
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/version.h
+END
+echobbslib.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/echobbslib.c
+END
+externs.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/externs.h
+END
+bbslib.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/innbbsd/bbslib.c
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib
+END
+strlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/strlib.c
+END
+named_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/named_socket.h
+END
+crypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/crypt.c
+END
+timeop.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/timeop.h
+END
+crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/crypt.h
+END
+strop.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/strop.c
+END
+uuencode.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/uuencode.c
+END
+mgrep.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/mgrep.c
+END
+strhash.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/strhash.c
+END
+fileop.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/fileop.c
+END
+smth_filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/smth_filter.c
+END
+numbyte.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/numbyte.c
+END
+fileop.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/fileop.h
+END
+ythtlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/ythtlib.h
+END
+shmop.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/shmop.c
+END
+limitcpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/limitcpu.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/common.c
+END
+eff_size.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/eff_size.c
+END
+limitcpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/limitcpu.h
+END
+named_socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/named_socket.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/Makefile
+END
+timeop.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/timeop.c
+END
+uudecode.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/src_1.8/!svn/ver/292/trunk/ythtlib/uudecode.c
+END
