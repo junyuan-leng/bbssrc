@@ -6,12 +6,12 @@ printdiv(int *n, char *str)
 	printf("<tr><td align=right><img id=img%d src=\"/images/plus.gif\"></td>\n"
                 "<td><DIV class=r id=div%da> <a class=linkleft href=\"javascript:;\" onClick=\"changemn('%d');\">%s</a>", 
 		*n, *n, *n, str);
-	if(!strcmp(str, "·ÖÀàÌÖÂÛÇø")){
+	if(!strcmp(str, "åˆ†ç±»è®¨è®ºåŒº")){
 		//modify: \"_bbsall.htm\" to: bbssecfly by: flyinsea
 		printf("<a href=bbssecfly target=f3 style=\"font-size:8px;\"> &gt;&gt;</a> ");
 	}
 	printf("</div></td></tr>\n");
-	if(!strcmp(str, "Ô¤¶¨ÌÖÂÛÇø"))
+	if(!strcmp(str, "é¢„å®šè®¨è®ºåŒº"))
 	        printf("<tr><td colspan=2> <DIV class=s id=div%d>", (*n)++);
 	else	printf("<tr><td align=right></td><td> <DIV class=s id=div%d>", (*n)++);
 	/*	printf("<div id=div%da class=r><A href='javascript:changemn(\"%d\");'>",
@@ -77,11 +77,11 @@ bbsleft_main()
 	if (!loginok || isguest) {
 		printf
 		    ("<form action=bbslogin method=post target=_top name=loginform><tr><td>\n"
-		     "<div style=\"text-align:center\">ÓÃ»§µÇÂ¼</div>\n"
-		     "ÕÊºÅ<input type=text name=id maxlength=12 size=8 class=inputuser><br>\n"
-		     "ÃÜÂë<input type=password name=pw maxlength=12 size=8 class=inputpwd><br>\n"
-		     //"·¶Î§<select name=ipmask class=1100>\n"
-		     //"<option value=0 selected>µ¥IP</option>\n"
+		     "<div style=\"text-align:center\">ç”¨æˆ·ç™»å½•</div>\n"
+		     "å¸å·<input type=text name=id maxlength=12 size=8 class=inputuser><br>\n"
+		     "å¯†ç <input type=password name=pw maxlength=12 size=8 class=inputpwd><br>\n"
+		     //"èŒƒå›´<select name=ipmask class=1100>\n"
+		     //"<option value=0 selected>å•IP</option>\n"
 		     //"<option value=1>2 IP</option>\n"
 		     //"<option value=2>4 IP</option>\n"
 		     //"<option value=3>8 IP</option>\n"
@@ -90,50 +90,50 @@ bbsleft_main()
 		     //"<option value=6>64 IP</option>\n"
 		     //"<option value=7>128 IP</option>\n"
 		     //"<option value=8>256 IP</option></select><br>"
-		     //"<a href=/ipmask.html target=_blank class=1100>ÕâÊÇÊ²Ã´?</a>\n<br>"
-		     "<input type=submit class=sumbitshort value=µÇÂ¼>&nbsp;"
-		     "<input type=submit class=resetshort value=×¢²á onclick=\"{openreg();return false}\">"
-		     "&nbsp&nbsp<a target=f3 href='bbsfindpass' target='_blank' class=linkindex><br>ÕÒ»ØÕÊºÅ»òÃÜÂë</a><br>\n"
+		     //"<a href=/ipmask.html target=_blank class=1100>è¿™æ˜¯ä»€ä¹ˆ?</a>\n<br>"
+		     "<input type=submit class=sumbitshort value=ç™»å½•>&nbsp;"
+		     "<input type=submit class=resetshort value=æ³¨å†Œ onclick=\"{openreg();return false}\">"
+		     "&nbsp&nbsp<a target=f3 href='bbsfindpass' target='_blank' class=linkindex><br>æ‰¾å›å¸å·æˆ–å¯†ç </a><br>\n"
 		     "</form>\n");
 	} else {
-		char buf[256] = "Î´×¢²áÓÃ»§";
-		printf("<a class=1100>ÓÃ»§: <a href=bbsqry?userid=%s target=f3>%s</a><br>",
+		char buf[256] = "æœªæ³¨å†Œç”¨æˆ·";
+		printf("<a class=1100>ç”¨æˆ·: <a href=bbsqry?userid=%s target=f3>%s</a><br>",
 		       currentuser.userid, currentuser.userid);
 		if (currentuser.userlevel & PERM_LOGINOK)
 			strcpy(buf, cexp(countexp(&currentuser)));
 		if (currentuser.userlevel & PERM_BOARDS)
-			strcpy(buf, "°æÖ÷");
+			strcpy(buf, "ç‰ˆä¸»");
 		if (currentuser.userlevel & PERM_XEMPT)
-			strcpy(buf, "ÓÀ¾ÃÕÊºÅ");
+			strcpy(buf, "æ°¸ä¹…å¸å·");
 		if (currentuser.userlevel & PERM_SYSOP)
-			strcpy(buf, "±¾Õ¾Õ¾³¤");
-		printf("<a class=1100>¼¶±ğ: %s<br>", buf);
-		printf("<a href=bbslogout target=_top class=1100>×¢Ïú±¾´ÎµÇÂ¼</a><br>\n");
+			strcpy(buf, "æœ¬ç«™ç«™é•¿");
+		printf("<a class=1100>çº§åˆ«: %s<br>", buf);
+		printf("<a href=bbslogout target=_top class=1100>æ³¨é”€æœ¬æ¬¡ç™»å½•</a><br>\n");
 	}
 	printf("</div></td></tr></table></td> </tr></table>\n");
 //	printf("<hr>");
-	//printf("&nbsp;&nbsp;<a href=http://162.105.153.249 target=_blank><font color=red>ÕâÀï¶©Õ¾ÉÀ</font></a><br>");
+	//printf("&nbsp;&nbsp;<a href=http://162.105.153.249 target=_blank><font color=red>è¿™é‡Œè®¢ç«™è¡«</font></a><br>");
 	printf("<table width=100%% border=0 cellpadding=0 cellspacing=0>\n");
 	printf("<tr><td width=27 align=right><img src=\"/images/list2.gif\"></td>\n"
-		"<td width=107><a href=\"boa?secstr=?\" target=f3 class=linkleft>" MY_BBS_ID "µ¼¶Á</a></td></tr>\n");
+		"<td width=107><a href=\"boa?secstr=?\" target=f3 class=linkleft>" MY_BBS_ID "å¯¼è¯»</a></td></tr>\n");
 	printf("<tr><td align=right> <img src=\"/images/list2.gif\"></td>\n"
-		"<td><a href=bbs0an target=f3 class=linkleft>¾«»ª¹«²¼À¸</a></td></tr>\n");
+		"<td><a href=bbs0an target=f3 class=linkleft>ç²¾åå…¬å¸ƒæ </a></td></tr>\n");
 	printf("<tr><td align=right> <img src=\"/images/list2.gif\"></td>\n"
-		"<td><a href=\"bbstop10\" target=f3 class=linkleft><b>ÈÈÃÅ»°ÌâÒ³</b></a></td></tr>\n");
+		"<td><a href=\"bbstop10\" target=f3 class=linkleft><b>çƒ­é—¨è¯é¢˜é¡µ</b></a></td></tr>\n");
 	//by bjgyt printf
 	/*printf("<tr><td align=right valign=top> <img src=\"/images/bmy_arrowblank.gif\" width=6 height=5></td>\n
-		<td><a target=f3 href=\"bbsshownav?a1=class&a2=all\" class=1100>½üÈÕ¾«²Ê»°Ìâ</a></td></tr>\n");*/
+		<td><a target=f3 href=\"bbsshownav?a1=class&a2=all\" class=1100>è¿‘æ—¥ç²¾å½©è¯é¢˜</a></td></tr>\n");*/
 
 	//Add by liuche 20121119 order by oOIOo ^_^
-	printdiv(&div, "BMY¸æÊ¾Ç½");
-	printf("&nbsp;&nbsp;<a target=f3 href=gdoc?B=AcdemicClub class=linkleft>½²×ùĞÅÏ¢</a><br>\n");
-	printf("&nbsp;&nbsp;<a target=f3 href=gdoc?B=Activity class=linkleft>Ğ£Ô°»î¶¯</a><br>\n");
-	printf("&nbsp;&nbsp;<a class=linkleft href=\"%sLost_Found\" target=f3>Ê§ÎïÕĞÁì</a><br>\n"
+	printdiv(&div, "BMYå‘Šç¤ºå¢™");
+	printf("&nbsp;&nbsp;<a target=f3 href=gdoc?B=AcdemicClub class=linkleft>è®²åº§ä¿¡æ¯</a><br>\n");
+	printf("&nbsp;&nbsp;<a target=f3 href=gdoc?B=Activity class=linkleft>æ ¡å›­æ´»åŠ¨</a><br>\n");
+	printf("&nbsp;&nbsp;<a class=linkleft href=\"%sLost_Found\" target=f3>å¤±ç‰©æ‹›é¢†</a><br>\n"
 		, showByDefMode() );
-	printf("&nbsp;&nbsp;<a class=linkleft href=\"tdoc?board=BoardHome\" target=f3>ÎÒÒªµ±°æÖ÷</a><br>\n");			
-	printf("&nbsp;&nbsp;<a class=linkleft href=\"%sBMY_Dev\" target=f3>³ÌĞòÓë±¨´í</a><br>\n"
+	printf("&nbsp;&nbsp;<a class=linkleft href=\"tdoc?board=BoardHome\" target=f3>æˆ‘è¦å½“ç‰ˆä¸»</a><br>\n");			
+	printf("&nbsp;&nbsp;<a class=linkleft href=\"%sBMY_Dev\" target=f3>ç¨‹åºä¸æŠ¥é”™</a><br>\n"
 		, showByDefMode() );
-	printf("&nbsp;&nbsp;<a class=linkleft href=\"%sArtDesign\" target=f3>ÃÀ¹¤Óë½øÕ¾</a><br>\n"
+	printf("&nbsp;&nbsp;<a class=linkleft href=\"%sArtDesign\" target=f3>ç¾å·¥ä¸è¿›ç«™</a><br>\n"
 		, showByDefMode() );	
 	printf("</div></td></tr>\n");
 	
@@ -144,9 +144,9 @@ bbsleft_main()
 		readuservalue(currentuser.userid, "mybrdmode", buf,
 			      sizeof (buf));
 		mybrdmode = atoi(buf);
-		printdiv(&div, "Ô¤¶¨ÌÖÂÛÇø");
+		printdiv(&div, "é¢„å®šè®¨è®ºåŒº");
 //		printf("<tr><td rowspan=2 align=right valign=top><img id=img0 src=\"/images/bmy_arrow_black.gif\" width=6 height=5></td>\n"
-//			"<td><DIV class=r id=div0a><a href=\"javascript:;\" onClick=\"changemn('0')\" class=1100>Ô¤¶¨ÌÖÂÛÇø</a>
+//			"<td><DIV class=r id=div0a><a href=\"javascript:;\" onClick=\"changemn('0')\" class=1100>é¢„å®šè®¨è®ºåŒº</a>
 //			\n");
 		readmybrd(currentuser.userid);
 		//printf("<tr><td><DIV class=s id=div0>\n");
@@ -163,15 +163,15 @@ bbsleft_main()
 			     showByDefMode(), mybrd[i], ptr);
 		}
 		printf
-		    ("&nbsp;&nbsp;<a target=f3 href=bbsboa?secstr=* class=linkleft>Ô¤¶¨Çø×ÜÀÀ</a><br>\n");
+		    ("&nbsp;&nbsp;<a target=f3 href=bbsboa?secstr=* class=linkleft>é¢„å®šåŒºæ€»è§ˆ</a><br>\n");
 		printf
-		    ("&nbsp;&nbsp;<a target=f3 href=bbsmybrd?mode=1 class=linkleft>Ô¤¶¨¹ÜÀí</a><br>\n");
+		    ("&nbsp;&nbsp;<a target=f3 href=bbsmybrd?mode=1 class=linkleft>é¢„å®šç®¡ç†</a><br>\n");
 		printf("</div></td></tr>\n");
 	}
 //	printf("<tr><td align=right valign=top><img id=img1 src=\"images/bmy_arrow_black.gif\" width=6 height=5></td>\n
-//		<td><DIV class=r id=div1a><a href=\"javascript:;\" target=f3 class=1100 onClick=\"changemn('1');\">·ÖÀàÌÖÂÛÇø</a>
+//		<td><DIV class=r id=div1a><a href=\"javascript:;\" target=f3 class=1100 onClick=\"changemn('1');\">åˆ†ç±»è®¨è®ºåŒº</a>
 //		<a href=\"_bbsall.htm\" target=f3 style=\"font-size:8px;\"> &gt;&gt;</a> </div></td></tr>\n");
-	printdiv(&div, "·ÖÀàÌÖÂÛÇø");
+	printdiv(&div, "åˆ†ç±»è®¨è®ºåŒº");
 	printsectree(&sectree);
 	//printf("</div>\n");
 	//printf("<div class=s>");
@@ -186,125 +186,125 @@ bbsleft_main()
 #endif
 	printf("</div></td></tr>\n");
 //	printf("<tr><td align=right valign=top><img id=img2 src=\"images/bmy_arrow_black.gif\" width=6 height=5></td>\n
-//		<td><DIV class=r id=div2a><a href="javascript:;" target=f3 class=1100 onClick=\"changemn('2');\">Ì¸ÌìËµµØÇø</a> 
+//		<td><DIV class=r id=div2a><a href="javascript:;" target=f3 class=1100 onClick=\"changemn('2');\">è°ˆå¤©è¯´åœ°åŒº</a> 
 //		</div></td></tr>\n");
-	printdiv(&div, "Ì¸ÌìËµµØ");			
+	printdiv(&div, "è°ˆå¤©è¯´åœ°");			
 //	printf("<tr><td align=right></td><td> <DIV class=s id=div2>\n");
 	if (loginok && !isguest) {
 		printf
-		    ("&nbsp;&nbsp;<a href=bbsfriend target=f3 class=linkleft>ÔÚÏßºÃÓÑ</a><br>\n");
+		    ("&nbsp;&nbsp;<a href=bbsfriend target=f3 class=linkleft>åœ¨çº¿å¥½å‹</a><br>\n");
 	}
 	printf
-	    ("&nbsp;&nbsp;<a href=bbsufind?search=A&limit=20 target=f3 class=linkleft>»·¹ËËÄ·½</a><br>\n");
-	printf("&nbsp;&nbsp;<a href=bbsqry target=f3 class=linkleft>²éÑ¯ÍøÓÑ</a><br>\n");
-//      printf("&nbsp;&nbsp;<a target=f3 href=bbsalluser>ËùÓĞÊ¹ÓÃÕß</a><br>\n");
+	    ("&nbsp;&nbsp;<a href=bbsufind?search=A&limit=20 target=f3 class=linkleft>ç¯é¡¾å››æ–¹</a><br>\n");
+	printf("&nbsp;&nbsp;<a href=bbsqry target=f3 class=linkleft>æŸ¥è¯¢ç½‘å‹</a><br>\n");
+//      printf("&nbsp;&nbsp;<a target=f3 href=bbsalluser>æ‰€æœ‰ä½¿ç”¨è€…</a><br>\n");
 	if (currentuser.userlevel & PERM_PAGE) {
 		printf
-		    ("&nbsp;&nbsp;<a href=bbssendmsg target=f3 class=linkleft>·¢ËÍÑ¶Ï¢</a><br>\n");
+		    ("&nbsp;&nbsp;<a href=bbssendmsg target=f3 class=linkleft>å‘é€è®¯æ¯</a><br>\n");
 		printf
-		    ("&nbsp;&nbsp;<a href=bbsmsg target=f3 class=linkleft>²é¿´ËùÓĞÑ¶Ï¢</a><br>\n");
+		    ("&nbsp;&nbsp;<a href=bbsmsg target=f3 class=linkleft>æŸ¥çœ‹æ‰€æœ‰è®¯æ¯</a><br>\n");
 	}
 	printf("</div></td></tr>\n");
 	if (loginok && !isguest) {
-		printdiv(&div, "¸öÈË¹¤¾ßÏä");
+		printdiv(&div, "ä¸ªäººå·¥å…·ç®±");
 //		printf("<tr><td align=right valign=top><img id=img3 src=\"images/bmy_arrow_black.gif\" width=6 height=5></td>\n
-///			<td><DIV class=r id=div3a><a class=1100 href='javascript:;' onClick=\"changemn('3');\">¸öÈË¹¤¾ßÏä</a>
+///			<td><DIV class=r id=div3a><a class=1100 href='javascript:;' onClick=\"changemn('3');\">ä¸ªäººå·¥å…·ç®±</a>
 //			</div></td></tr>\n");
-		printf("&nbsp;&nbsp;<a target=f3 href=bbsinfo class=linkleft>¸öÈË×ÊÁÏ</a><br>"
-		       "&nbsp;&nbsp;<a target=f3 href=bbsplan class=linkleft>¸ÄËµÃ÷µµ</a><br>"
-		       "&nbsp;&nbsp;<a target=f3 href=bbssig class=linkleft>¸ÄÇ©Ãûµµ</a><br>"
-		       "&nbsp;&nbsp;<a target=f3 href=bbspwd?mode=1 class=linkleft>ĞŞ¸ÄÃÜÂë</a><br>"
-//		       "&nbsp;&nbsp;<a target=f3 href=bbspwd?mode=2 class=linkleft>ÕÒ»ØËûÈËÃÜÂë</a><br>"
-		       "&nbsp;&nbsp;<a target=f3 href=bbsparm class=linkleft>ĞŞ¸Ä¸öÈË²ÎÊı</a><br>"
-		       "&nbsp;&nbsp;<a target=f3 href=bbsmywww class=linkleft>www¸öÈË¶¨ÖÆ</a><br>"
-		       "&nbsp;&nbsp;<a target=f3 href=bbsnick class=linkleft>ÁÙÊ±¸ÄêÇ³Æ</a><br>"
-		       "&nbsp;&nbsp;<a target=f3 href=bbsstat class=linkleft>ÅÅÃûÍ³¼Æ</a><br>"
-		       "&nbsp;&nbsp;<a target=f3 href=bbsfall class=linkleft>Éè¶¨ºÃÓÑ</a><br>"
-			   "&nbsp;&nbsp;<a target=f3 href=bbsmybrd?mode=2 class=linkleft>RSS¶©ÔÄ¹ÜÀí</a><br>");
+		printf("&nbsp;&nbsp;<a target=f3 href=bbsinfo class=linkleft>ä¸ªäººèµ„æ–™</a><br>"
+		       "&nbsp;&nbsp;<a target=f3 href=bbsplan class=linkleft>æ”¹è¯´æ˜æ¡£</a><br>"
+		       "&nbsp;&nbsp;<a target=f3 href=bbssig class=linkleft>æ”¹ç­¾åæ¡£</a><br>"
+		       "&nbsp;&nbsp;<a target=f3 href=bbspwd?mode=1 class=linkleft>ä¿®æ”¹å¯†ç </a><br>"
+//		       "&nbsp;&nbsp;<a target=f3 href=bbspwd?mode=2 class=linkleft>æ‰¾å›ä»–äººå¯†ç </a><br>"
+		       "&nbsp;&nbsp;<a target=f3 href=bbsparm class=linkleft>ä¿®æ”¹ä¸ªäººå‚æ•°</a><br>"
+		       "&nbsp;&nbsp;<a target=f3 href=bbsmywww class=linkleft>wwwä¸ªäººå®šåˆ¶</a><br>"
+		       "&nbsp;&nbsp;<a target=f3 href=bbsnick class=linkleft>ä¸´æ—¶æ”¹æ˜µç§°</a><br>"
+		       "&nbsp;&nbsp;<a target=f3 href=bbsstat class=linkleft>æ’åç»Ÿè®¡</a><br>"
+		       "&nbsp;&nbsp;<a target=f3 href=bbsfall class=linkleft>è®¾å®šå¥½å‹</a><br>"
+			   "&nbsp;&nbsp;<a target=f3 href=bbsmybrd?mode=2 class=linkleft>RSSè®¢é˜…ç®¡ç†</a><br>");
 		if (currentuser.userlevel & PERM_CLOAK)
 			printf("&nbsp;&nbsp;<a target=f3 "
-			       "onclick='return confirm(\"È·ÊµÇĞ»»ÒşÉí×´Ì¬Âğ?\")' "
-			       "href=bbscloak class=linkleft>ÇĞ»»ÒşÉí</a><br>\n");
+			       "onclick='return confirm(\"ç¡®å®åˆ‡æ¢éšèº«çŠ¶æ€å—?\")' "
+			       "href=bbscloak class=linkleft>åˆ‡æ¢éšèº«</a><br>\n");
 		printf("</div></td></tr>");
-		printdiv(&div, "´¦ÀíĞÅ¼ş");				
-		printf("&nbsp;&nbsp;<a target=f3 href=bbsnewmail class=linkleft>ĞÂÓÊ¼ş</a><br>"
-		       "&nbsp;&nbsp;<a target=f3 href=bbsmail class=linkleft>ËùÓĞÓÊ¼ş</a><br>"
-		       "&nbsp;&nbsp;<a target=f3 href=bbspstmail class=linkleft>·¢ËÍÓÊ¼ş</a><br>"
+		printdiv(&div, "å¤„ç†ä¿¡ä»¶");				
+		printf("&nbsp;&nbsp;<a target=f3 href=bbsnewmail class=linkleft>æ–°é‚®ä»¶</a><br>"
+		       "&nbsp;&nbsp;<a target=f3 href=bbsmail class=linkleft>æ‰€æœ‰é‚®ä»¶</a><br>"
+		       "&nbsp;&nbsp;<a target=f3 href=bbspstmail class=linkleft>å‘é€é‚®ä»¶</a><br>"
 		       "</div></td></tr>");
 	}
-	printdiv(&div, "ÌØ±ğ·şÎñ");
-	//printf("&nbsp;&nbsp;<a target=f3 href=bbssechand>¶şÊÖÊĞ³¡</a><br>\n");
-	printf("&nbsp;&nbsp;<a target=f3 href=/wnl.html class=linkleft>ÍòÄêÀú</a><br>\n");
-	//printf("&nbsp;&nbsp;<a target=f3 href=/cgi-bin/cgincce class=1100>¿Æ¼¼´Êµä</a><br>\n");
-	printf("&nbsp;&nbsp;<a target=f3 href=/scicalc.html class=linkleft>¿ÆÑ§¼ÆËãÆ÷</a><br>\n");
-	//printf("&nbsp;&nbsp;<a target=f3 href=/periodic/periodic.html class=1100>ÔªËØÖÜÆÚ±í</a><br>\n");
-	//printf("&nbsp;&nbsp;<a target=f3 href=/cgi-bin/cgiman class=1100>LinuxÊÖ²á²éÑ¯</a><br>\n");
-	printf("&nbsp;&nbsp;<a href=bbsfind target=f3 class=linkleft>ÎÄÕÂ²éÑ¯</a><br>\n");
+	printdiv(&div, "ç‰¹åˆ«æœåŠ¡");
+	//printf("&nbsp;&nbsp;<a target=f3 href=bbssechand>äºŒæ‰‹å¸‚åœº</a><br>\n");
+	printf("&nbsp;&nbsp;<a target=f3 href=/wnl.html class=linkleft>ä¸‡å¹´å†</a><br>\n");
+	//printf("&nbsp;&nbsp;<a target=f3 href=/cgi-bin/cgincce class=1100>ç§‘æŠ€è¯å…¸</a><br>\n");
+	printf("&nbsp;&nbsp;<a target=f3 href=/scicalc.html class=linkleft>ç§‘å­¦è®¡ç®—å™¨</a><br>\n");
+	//printf("&nbsp;&nbsp;<a target=f3 href=/periodic/periodic.html class=1100>å…ƒç´ å‘¨æœŸè¡¨</a><br>\n");
+	//printf("&nbsp;&nbsp;<a target=f3 href=/cgi-bin/cgiman class=1100>Linuxæ‰‹å†ŒæŸ¥è¯¢</a><br>\n");
+	printf("&nbsp;&nbsp;<a href=bbsfind target=f3 class=linkleft>æ–‡ç« æŸ¥è¯¢</a><br>\n");
 	
-	//printf("&nbsp;&nbsp;<a target=f3 href=/cgi-bin/cgifreeip class=1100>IPµØÖ·²éÑ¯</a><br>\n");
-	printf("&nbsp;&nbsp;<a target=f3 href=bbsx?chm=0 class=linkleft>ÏÂÔØ¾«»ªÇø</a><br>\n");
+	//printf("&nbsp;&nbsp;<a target=f3 href=/cgi-bin/cgifreeip class=1100>IPåœ°å€æŸ¥è¯¢</a><br>\n");
+	printf("&nbsp;&nbsp;<a target=f3 href=bbsx?chm=0 class=linkleft>ä¸‹è½½ç²¾ååŒº</a><br>\n");
 
 	
-	//printf("&nbsp;&nbsp;<a target=f3 href=home/pub/index.html class=linkleft>³£ÓÃÏÂÔØ</a><br>\n");
-//	printf("&nbsp;&nbsp;<a target=f3 href=\"/xiaoli.htm\" class=linkleft>Ğ£Àú</a><br>\n");
+	//printf("&nbsp;&nbsp;<a target=f3 href=home/pub/index.html class=linkleft>å¸¸ç”¨ä¸‹è½½</a><br>\n");
+//	printf("&nbsp;&nbsp;<a target=f3 href=\"/xiaoli.htm\" class=linkleft>æ ¡å†</a><br>\n");
 
 	printf("</div></td></tr>\n");
 	//printf("<div class=r>");
 	printf("<tr><td align=right> <img src=\"/images/list2.gif\"></td>\n"
-		"<td><a class=linkleft href=\"bbs0an?path=/groups/GROUP_0/PersonalCorpus\" target=f3>¸öÈËÎÄ¼¯Çø</a>\n"
+		"<td><a class=linkleft href=\"bbs0an?path=/groups/GROUP_0/PersonalCorpus\" target=f3>ä¸ªäººæ–‡é›†åŒº</a>\n"
 		"</td></tr>\n");
-//	printf("&nbsp;&nbsp;<a target=f3 href=bbs0an?path=/groups/GROUP_0/PersonalCorpus>¸öÈËÎÄ¼¯Çø</a><br>\n");
+//	printf("&nbsp;&nbsp;<a target=f3 href=bbs0an?path=/groups/GROUP_0/PersonalCorpus>ä¸ªäººæ–‡é›†åŒº</a><br>\n");
 	printf("<tr><td align=right> <img src=\"/images/list2.gif\"></td>\n"
-		"<td><a class=linkleft href=\"bbsall\" target=f3>ËùÓĞÌÖÂÛÇø</a></td></tr>\n");
+		"<td><a class=linkleft href=\"bbsall\" target=f3>æ‰€æœ‰è®¨è®ºåŒº</a></td></tr>\n");
 	//printf("<tr><td align=right> <img src=\"/images/list2.gif\"></td>\n"
-       //         "<td><a class=linkleft href=\"/search.htm\" target=f3>¾«»ªÇøËÑË÷</a>"
+       //         "<td><a class=linkleft href=\"/search.htm\" target=f3>ç²¾ååŒºæœç´¢</a>"
        //         "</td></tr>\n");
 	printf("<tr><td align=right> <img src=\"/images/list2.gif\"></td>\n"
-               "<td><a class=linkleft href=\"bbsselstyle\" target=f3>¸ü»»½çÃæ</a>"
+               "<td><a class=linkleft href=\"bbsselstyle\" target=f3>æ›´æ¢ç•Œé¢</a>"
                 "</td></tr>\n");
-//	printf("&nbsp;&nbsp;<a target=f3 href=bbsall>ËùÓĞÌÖÂÛÇø</a><br>\n");
+//	printf("&nbsp;&nbsp;<a target=f3 href=bbsall>æ‰€æœ‰è®¨è®ºåŒº</a><br>\n");
 //	printf("<hr>");
-//ÕâÀïÊÇBBS×ó±ßÀ¸µÄËÑË÷¿ò
+        //modified by deepurple 20120117 (bbsleft board search)
 	printf("<tr><form action=bbssbs target=f3><td colspan=2>\n"
 	       "&nbsp;&nbsp;&nbsp;&nbsp;<input type=text name=keyword maxlength=20 "
-	       "size=9 onclick=\"this.select()\" value=ÇëÊäÈë¹Ø¼ü×Ö><input type=submit class=sumbitshort value=ËÑË÷°æÃæ></td></form></tr>\n");
-//	printf("&nbsp;&nbsp;<a href='telnet:%s'>TelnetµÇÂ¼</a>\n", BBSHOST);
+	       "size=9 onclick=\"this.select()\" value=è¯·è¾“å…¥å…³é”®å­—><input type=submit class=sumbitshort value=æœç´¢ç‰ˆé¢></td></form></tr>\n");
+//	printf("&nbsp;&nbsp;<a href='telnet:%s'>Telnetç™»å½•</a>\n", BBSHOST);
 /*	if (!loginok || isguest)
 		printf
-		    ("<br>&nbsp;&nbsp;<a href=\"javascript: openreg()\" class=1100>ĞÂÓÃ»§×¢²á</a>\n");
+		    ("<br>&nbsp;&nbsp;<a href=\"javascript: openreg()\" class=1100>æ–°ç”¨æˆ·æ³¨å†Œ</a>\n");
 */	if (loginok && !isguest && !(currentuser.userlevel & PERM_LOGINOK)
 	    && !has_fill_form())
 		printf
 		    ("<tr><td align=right> <img src=\"/images/list2.gif\"></td>\n"
-                "<td><a class=linkleft href=\"bbsform\" target=f3>ÌîĞ´×¢²áµ¥</a></td></tr>\n");
+                "<td><a class=linkleft href=\"bbsform\" target=f3>å¡«å†™æ³¨å†Œå•</a></td></tr>\n");
 /*	if (loginok && !isguest && HAS_PERM(PERM_ACCOUNTS))
 		printf("<tr><td align=right> <img src=\"/images/list2.gif\"></td>\n"
                 "<td><a class=linkleft href=\"bbsscanreg\" target=f3>SCANREG</a></td></tr>\n");
 */
 	if (loginok && !isguest && HAS_PERM(PERM_SYSOP))        //add by mintbaggio@BMY for www SYSOP kick www user
                 printf("<tr><td align=right> <img src=\"/images/list2.gif\"></td>\n"
-                "<td><a class=linkleft href=\"kick\" target=f3>ÌßwwwÏÂÕ¾</a></td></tr>\n");
-	//if(loginok && !isguest) printf("<br>&nbsp;&nbsp;<a href='javascript:openchat()'>bbs²è¹İ</a>");
-//	printf("<br>&nbsp;&nbsp;<a href=bbsselstyle target=f3>»»¸ö½çÃæ¿´¿´</a>");
-	//printf ("<br>&nbsp;&nbsp;<a href='http://bug.ytht.org/' target=_BLANK>±¨¸æ Bug</a>");
+                "<td><a class=linkleft href=\"kick\" target=f3>è¸¢wwwä¸‹ç«™</a></td></tr>\n");
+	//if(loginok && !isguest) printf("<br>&nbsp;&nbsp;<a href='javascript:openchat()'>bbsèŒ¶é¦†</a>");
+//	printf("<br>&nbsp;&nbsp;<a href=bbsselstyle target=f3>æ¢ä¸ªç•Œé¢çœ‹çœ‹</a>");
+	//printf ("<br>&nbsp;&nbsp;<a href='http://bug.ytht.org/' target=_BLANK>æŠ¥å‘Š Bug</a>");
 //	printf("<tr><td align=right valign=top><img src=/coco.gif></td>\n");
-	printdiv(&div, "ÓÑÇéÁ´½Ó");
-	printf("&nbsp;&nbsp;<a target=_BLANK href='http://www.xjtu.edu.cn/' class=linkleft>½»´óÖ÷Ò³</a><br>\n");
-	printf("&nbsp;&nbsp;<a target=_BLANK href='http://nic.xjtu.edu.cn/' class=linkleft>ÍøÂçÖĞĞÄ</a><br>\n");
+	printdiv(&div, "å‹æƒ…é“¾æ¥");
+	printf("&nbsp;&nbsp;<a target=_BLANK href='http://www.xjtu.edu.cn/' class=linkleft>äº¤å¤§ä¸»é¡µ</a><br>\n");
+	printf("&nbsp;&nbsp;<a target=_BLANK href='http://nic.xjtu.edu.cn/' class=linkleft>ç½‘ç»œä¸­å¿ƒ</a><br>\n");
 	printf("</div></td></tr>\n");
 //lanboy add ads here
-//        printf("<br><a href='http://cn.rd.yahoo.com/auct/promo/bmy/200501/hp/evt=29631/*http://cn.auctions.yahoo.com/?refcode=bmy-hp' target=_BLANK>¡¡<IMG src=/pic80x60.gif width=90 height=180 border=0></a>");
+//        printf("<br><a href='http://cn.rd.yahoo.com/auct/promo/bmy/200501/hp/evt=29631/*http://cn.auctions.yahoo.com/?refcode=bmy-hp' target=_BLANK>ã€€<IMG src=/pic80x60.gif width=90 height=180 border=0></a>");
 	printf("<tr><td align=right> <img src=\"/images/list2.gif\"></td>\n"
-		"<td><a class=linkleft href=\"%sBBShelp\" target=f3>ÓÃ»§°ïÖú</a>\n"
+		"<td><a class=linkleft href=\"%sBBShelp\" target=f3>ç”¨æˆ·å¸®åŠ©</a>\n"
 		"</td></tr>\n", showByDefMode() );
 	printf("<tr><td align=right> <img src=\"/images/list2.gif\"></td>\n"
-		"<td><a class=linkleft href=\"bbspstmail?userid=SYSOP\" target=f3>·¢ĞÅ¸øÕ¾³¤</a>\n"
+		"<td><a class=linkleft href=\"bbspstmail?userid=SYSOP\" target=f3>å‘ä¿¡ç»™ç«™é•¿</a>\n"
 		"</td></tr>\n");
 	printf("</table>\n");
 	printf("<table width=124>"
-	       "<tr><form><td>&nbsp;&nbsp;<input type=button style='width:90px' value='Òş²Ø²Ëµ¥' "
-	       "onclick=\"{if(switchAutoHide()==true) {this.value='Í£Ö¹×Ô¶¯Òş²Ø';}"
-	       "else this.value='Òş²Ø²Ëµ¥';return false;}\">"
+	       "<tr><form><td>&nbsp;&nbsp;<input type=button style='width:90px' value='éšè—èœå•' "
+	       "onclick=\"{if(switchAutoHide()==true) {this.value='åœæ­¢è‡ªåŠ¨éšè—';}"
+	       "else this.value='éšè—èœå•';return false;}\">"
 	       "</td></form></tr></table>\n");
 
 // add by interma announce log picture
@@ -360,15 +360,15 @@ endleft:
 		printf("<script>\n"
 			"function window.onbeforeunload(){\n"
 			"  if(event.clientX>document.body.clientWidth&&event.clientY<0||event.altKey){\n"
-			"return 'Ö±½Ó¹Ø±Õä¯ÀÀÆ÷½«²»¼ÆÉÏÕ¾Ê±¼ä£¬Ç¿ÁÒ½¨ÒéÄúµã¡°×¢Ïú±¾´ÎµÇÂ¼¡±¡£'}}\n"
+			"return 'ç›´æ¥å…³é—­æµè§ˆå™¨å°†ä¸è®¡ä¸Šç«™æ—¶é—´ï¼Œå¼ºçƒˆå»ºè®®æ‚¨ç‚¹â€œæ³¨é”€æœ¬æ¬¡ç™»å½•â€ã€‚'}}\n"
 			"</script>\n");
 //add by macintosh 20051216, end
 		if (HAS_PERM(PERM_LOGINOK) && !HAS_PERM(PERM_POST))
 			printf
-			    ("<script>alert('Äú±»·â½ûÁËÈ«Õ¾·¢±íÎÄÕÂµÄÈ¨ÏŞ, Çë²Î¿´sysop°æ¹«¸æ, ÆÚÂúºóÔÚsysop°æÉêÇë½â·â. ÈçÓĞÒìÒé, ¿ÉÔÚcommittee°æÌá³öÉêËß.')</script>\n");
+			    ("<script>alert('æ‚¨è¢«å°ç¦äº†å…¨ç«™å‘è¡¨æ–‡ç« çš„æƒé™, è¯·å‚çœ‹sysopç‰ˆå…¬å‘Š, æœŸæ»¡ååœ¨sysopç‰ˆç”³è¯·è§£å°. å¦‚æœ‰å¼‚è®®, å¯åœ¨committeeç‰ˆæå‡ºç”³è¯‰.')</script>\n");
 		mails(currentuser.userid, &i);
 		if (i > 0)
-			printf("<script>alert('ÄúÓĞĞÂĞÅ¼ş!')</script>\n");
+			printf("<script>alert('æ‚¨æœ‰æ–°ä¿¡ä»¶!')</script>\n");
 	}
 	// if(loginok&&currentuser.userdefine&DEF_ACBOARD)
 	//              printf("<script>window.open('bbsmovie','','left=200,top=200,width=600,height=240');</script>"); 
@@ -414,11 +414,11 @@ endleft:
 		printf("<table>\n");
 		printf
 		    ("<form action=bbslogin method=post target=_top><tr><td><center>"
-		     "ÓÃ»§µÇÂ¼<br>"
-		     "ÕÊºÅ<input type=text name=id maxlength=12 size=8><br>"
-		     "ÃÜÂë<input type=password name=pw maxlength=12 size=8><br>"
-		     "·¶Î§<select name=ipmask>\n"
-		     "<option value=0 selected>µ¥IP</option>\n"
+		     "ç”¨æˆ·ç™»å½•<br>"
+		     "å¸å·<input type=text name=id maxlength=12 size=8><br>"
+		     "å¯†ç <input type=password name=pw maxlength=12 size=8><br>"
+		     "èŒƒå›´<select name=ipmask>\n"
+		     "<option value=0 selected>å•IP</option>\n"
 		     "<option value=1>2 IP</option>\n"
 		     "<option value=2>4 IP</option>\n"
 		     "<option value=3>8 IP</option>\n"
@@ -427,34 +427,34 @@ endleft:
 		     "<option value=6>64 IP</option>\n"
 		     "<option value=7>128 IP</option>\n"
 		     "<option value=8>256 IP</option></select><br>"
-		     "<a href=/ipmask.html target=_blank>ÕâÊÇÊ²Ã´?</a>\n<br>"
-		     "<input type=submit value=µÇÂ¼>&nbsp;"
-		     "<input type=submit value=×¢²á onclick=\"{openreg();return false}\">\n"
+		     "<a href=/ipmask.html target=_blank>è¿™æ˜¯ä»€ä¹ˆ?</a>\n<br>"
+		     "<input type=submit value=ç™»å½•>&nbsp;"
+		     "<input type=submit value=æ³¨å†Œ onclick=\"{openreg();return false}\">\n"
 		     "</center></td></tr></form></table>");
 	} else {
-		char buf[256] = "Î´×¢²áÓÃ»§";
-		printf("ÓÃ»§: <a href=bbsqry?userid=%s target=f3>%s</a><br>",
+		char buf[256] = "æœªæ³¨å†Œç”¨æˆ·";
+		printf("ç”¨æˆ·: <a href=bbsqry?userid=%s target=f3>%s</a><br>",
 		       currentuser.userid, currentuser.userid);
 		if (currentuser.userlevel & PERM_LOGINOK)
 			strcpy(buf, cexp(countexp(&currentuser)));
 		if (currentuser.userlevel & PERM_BOARDS)
-			strcpy(buf, "°æÖ÷");
+			strcpy(buf, "ç‰ˆä¸»");
 		if (currentuser.userlevel & PERM_XEMPT)
-			strcpy(buf, "ÓÀ¾ÃÕÊºÅ");
+			strcpy(buf, "æ°¸ä¹…å¸å·");
 		if (currentuser.userlevel & PERM_SYSOP)
-			strcpy(buf, "±¾Õ¾Õ¾³¤");
-		printf("¼¶±ğ: %s<br>", buf);
-		printf("<a href=bbslogout target=_top>×¢Ïú±¾´ÎµÇÂ¼</a><br>\n");
+			strcpy(buf, "æœ¬ç«™ç«™é•¿");
+		printf("çº§åˆ«: %s<br>", buf);
+		printf("<a href=bbslogout target=_top>æ³¨é”€æœ¬æ¬¡ç™»å½•</a><br>\n");
 	}
 	printf("<hr>");
-	//printf("&nbsp;&nbsp;<a href=http://162.105.153.249 target=_blank><font color=red>ÕâÀï¶©Õ¾ÉÀ</font></a><br>");
+	//printf("&nbsp;&nbsp;<a href=http://162.105.153.249 target=_blank><font color=red>è¿™é‡Œè®¢ç«™è¡«</font></a><br>");
 
 	printf("&nbsp;&nbsp;<a target=f3 href=boa?secstr=?>" MY_BBS_ID
-	       "µ¼¶Á</a><br>\n");
-	printf("&nbsp;&nbsp;<a target=f3 href=bbs0an>¾«»ª¹«²¼À¸</a><br>\n");
-	printf("&nbsp;&nbsp;<a target=f3 href=bbstop10>Ê®´óÈÈÃÅ»°Ìâ</a><br>\n");
+	       "å¯¼è¯»</a><br>\n");
+	printf("&nbsp;&nbsp;<a target=f3 href=bbs0an>ç²¾åå…¬å¸ƒæ </a><br>\n");
+	printf("&nbsp;&nbsp;<a target=f3 href=bbstop10>åå¤§çƒ­é—¨è¯é¢˜</a><br>\n");
 	//by bjgyt printf
-	    ("&nbsp;&nbsp;<a target=f3 href=bbsshownav?a1=class&a2=all>½üÈÕ¾«²Ê»°Ìâ</a><br>\n");
+	    ("&nbsp;&nbsp;<a target=f3 href=bbsshownav?a1=class&a2=all>è¿‘æ—¥ç²¾å½©è¯é¢˜</a><br>\n");
 	if (loginok && !isguest) {
 		char *ptr, buf[10];
 		struct boardmem *x1;
@@ -462,7 +462,7 @@ endleft:
 		readuservalue(currentuser.userid, "mybrdmode", buf,
 			      sizeof (buf));
 		mybrdmode = atoi(buf);
-		printdiv(&div, "Ô¤¶¨ÌÖÂÛÇø");
+		printdiv(&div, "é¢„å®šè®¨è®ºåŒº");
 		readmybrd(currentuser.userid);
 		for (i = 0; i < mybrdnum; i++) {
 			ptr = mybrd[i];
@@ -477,12 +477,12 @@ endleft:
 			     mybrd[i], ptr);
 		}
 		printf
-		    ("&nbsp;&nbsp;<a target=f3 href=bbsboa?secstr=*>Ô¤¶¨Çø×ÜÀÀ</a><br>\n");
+		    ("&nbsp;&nbsp;<a target=f3 href=bbsboa?secstr=*>é¢„å®šåŒºæ€»è§ˆ</a><br>\n");
 		printf
-		    ("&nbsp;&nbsp;<a target=f3 href=bbsmybrd?mode=1>Ô¤¶¨¹ÜÀí</a><br>\n");
+		    ("&nbsp;&nbsp;<a target=f3 href=bbsmybrd?mode=1>é¢„å®šç®¡ç†</a><br>\n");
 		printf("</div>\n");
 	}
-	printdiv(&div, "·ÖÀàÌÖÂÛÇø");
+	printdiv(&div, "åˆ†ç±»è®¨è®ºåŒº");
 	printsectree(&sectree);
 	printf("</div>\n");
 	printf("<div class=r>");
@@ -494,99 +494,99 @@ endleft:
 		       sec->basestr, sec->title);
 	}
 	printf("</div>\n");
-	printdiv(&div, "Ì¸ÌìËµµØ");
+	printdiv(&div, "è°ˆå¤©è¯´åœ°");
 	if (loginok && !isguest) {
 		printf
-		    ("&nbsp;&nbsp;<a href=bbsfriend target=f3>ÔÚÏßºÃÓÑ</a><br>\n");
+		    ("&nbsp;&nbsp;<a href=bbsfriend target=f3>åœ¨çº¿å¥½å‹</a><br>\n");
 	}
 	printf
-	    ("&nbsp;&nbsp;<a href=bbsufind?search=A&limit=20 target=f3>»·¹ËËÄ·½</a><br>\n");
-	printf("&nbsp;&nbsp;<a href=bbsqry target=f3>²éÑ¯ÍøÓÑ</a><br>\n");
-//      printf("&nbsp;&nbsp;<a target=f3 href=bbsalluser>ËùÓĞÊ¹ÓÃÕß</a><br>\n");
+	    ("&nbsp;&nbsp;<a href=bbsufind?search=A&limit=20 target=f3>ç¯é¡¾å››æ–¹</a><br>\n");
+	printf("&nbsp;&nbsp;<a href=bbsqry target=f3>æŸ¥è¯¢ç½‘å‹</a><br>\n");
+//      printf("&nbsp;&nbsp;<a target=f3 href=bbsalluser>æ‰€æœ‰ä½¿ç”¨è€…</a><br>\n");
 	if (currentuser.userlevel & PERM_PAGE) {
 		printf
-		    ("&nbsp;&nbsp;<a href=bbssendmsg target=f3>·¢ËÍÑ¶Ï¢</a><br>\n");
+		    ("&nbsp;&nbsp;<a href=bbssendmsg target=f3>å‘é€è®¯æ¯</a><br>\n");
 		printf
-		    ("&nbsp;&nbsp;<a href=bbsmsg target=f3>²é¿´ËùÓĞÑ¶Ï¢</a><br>\n");
+		    ("&nbsp;&nbsp;<a href=bbsmsg target=f3>æŸ¥çœ‹æ‰€æœ‰è®¯æ¯</a><br>\n");
 	}
 	printf("</div>\n");
 	if (loginok && !isguest) {
-		printdiv(&div, "¸öÈË¹¤¾ßÏä");
-		printf("&nbsp;&nbsp;<a target=f3 href=bbsinfo>¸öÈË×ÊÁÏ</a><br>"
-		       "&nbsp;&nbsp;<a target=f3 href=bbsplan>¸ÄËµÃ÷µµ</a><br>"
-		       "&nbsp;&nbsp;<a target=f3 href=bbssig>¸ÄÇ©Ãûµµ</a><br>"
-		       "&nbsp;&nbsp;<a target=f3 href=bbspwd>ĞŞ¸ÄÃÜÂë</a><br>"
-		       "&nbsp;&nbsp;<a target=f3 href=bbsparm>ĞŞ¸Ä¸öÈË²ÎÊı</a><br>"
-		       "&nbsp;&nbsp;<a target=f3 href=bbsmywww>WWW¸öÈË¶¨ÖÆ</a><br>"
-		       "&nbsp;&nbsp;<a target=f3 href=bbsnick>ÁÙÊ±¸ÄêÇ³Æ</a><br>"
-		       "&nbsp;&nbsp;<a target=f3 href=bbsstat>ÅÅÃûÍ³¼Æ</a><br>"
-		       "&nbsp;&nbsp;<a target=f3 href=bbsfall>Éè¶¨ºÃÓÑ</a><br>");
+		printdiv(&div, "ä¸ªäººå·¥å…·ç®±");
+		printf("&nbsp;&nbsp;<a target=f3 href=bbsinfo>ä¸ªäººèµ„æ–™</a><br>"
+		       "&nbsp;&nbsp;<a target=f3 href=bbsplan>æ”¹è¯´æ˜æ¡£</a><br>"
+		       "&nbsp;&nbsp;<a target=f3 href=bbssig>æ”¹ç­¾åæ¡£</a><br>"
+		       "&nbsp;&nbsp;<a target=f3 href=bbspwd>ä¿®æ”¹å¯†ç </a><br>"
+		       "&nbsp;&nbsp;<a target=f3 href=bbsparm>ä¿®æ”¹ä¸ªäººå‚æ•°</a><br>"
+		       "&nbsp;&nbsp;<a target=f3 href=bbsmywww>WWWä¸ªäººå®šåˆ¶</a><br>"
+		       "&nbsp;&nbsp;<a target=f3 href=bbsnick>ä¸´æ—¶æ”¹æ˜µç§°</a><br>"
+		       "&nbsp;&nbsp;<a target=f3 href=bbsstat>æ’åç»Ÿè®¡</a><br>"
+		       "&nbsp;&nbsp;<a target=f3 href=bbsfall>è®¾å®šå¥½å‹</a><br>");
 		if (currentuser.userlevel & PERM_CLOAK)
 			printf("&nbsp;&nbsp;<a target=f3 "
-			       "onclick='return confirm(\"È·ÊµÇĞ»»ÒşÉí×´Ì¬Âğ?\")' "
-			       "href=bbscloak>ÇĞ»»ÒşÉí</a><br>\n");
+			       "onclick='return confirm(\"ç¡®å®åˆ‡æ¢éšèº«çŠ¶æ€å—?\")' "
+			       "href=bbscloak>åˆ‡æ¢éšèº«</a><br>\n");
 		printf("</div>");
-		printdiv(&div, "´¦ÀíĞÅ¼ş");
-		printf("&nbsp;&nbsp;<a target=f3 href=bbsnewmail>ĞÂÓÊ¼ş</a><br>"
-		       "&nbsp;&nbsp;<a target=f3 href=bbsmail>ËùÓĞÓÊ¼ş</a><br>"
-		       "&nbsp;&nbsp;<a target=f3 href=bbspstmail>·¢ËÍÓÊ¼ş</a><br>"
+		printdiv(&div, "å¤„ç†ä¿¡ä»¶");
+		printf("&nbsp;&nbsp;<a target=f3 href=bbsnewmail>æ–°é‚®ä»¶</a><br>"
+		       "&nbsp;&nbsp;<a target=f3 href=bbsmail>æ‰€æœ‰é‚®ä»¶</a><br>"
+		       "&nbsp;&nbsp;<a target=f3 href=bbspstmail>å‘é€é‚®ä»¶</a><br>"
 		       "</div>");
 	}
-	printdiv(&div, "ÌØ±ğ·şÎñ");
-	//printf("&nbsp;&nbsp;<a target=f3 href=bbssechand>¶şÊÖÊĞ³¡</a><br>\n");
-	printf("&nbsp;&nbsp;<a target=f3 href=/wnl.html>ÍòÄêÀú</a><br>\n");
+	printdiv(&div, "ç‰¹åˆ«æœåŠ¡");
+	//printf("&nbsp;&nbsp;<a target=f3 href=bbssechand>äºŒæ‰‹å¸‚åœº</a><br>\n");
+	printf("&nbsp;&nbsp;<a target=f3 href=/wnl.html>ä¸‡å¹´å†</a><br>\n");
 	//printf
-	    ("&nbsp;&nbsp;<a target=f3 href=/cgi-bin/cgincce>¿Æ¼¼´Êµä</a><br>\n");
+	    ("&nbsp;&nbsp;<a target=f3 href=/cgi-bin/cgincce>ç§‘æŠ€è¯å…¸</a><br>\n");
 	printf
-	    ("&nbsp;&nbsp;<a target=f3 href=/scicalc.html>¿ÆÑ§¼ÆËãÆ÷</a><br>\n");
+	    ("&nbsp;&nbsp;<a target=f3 href=/scicalc.html>ç§‘å­¦è®¡ç®—å™¨</a><br>\n");
 	//printf
-	    ("&nbsp;&nbsp;<a target=f3 href=/periodic/periodic.html>ÔªËØÖÜÆÚ±í</a><br>\n");
+	    ("&nbsp;&nbsp;<a target=f3 href=/periodic/periodic.html>å…ƒç´ å‘¨æœŸè¡¨</a><br>\n");
 	//printf
-	    ("&nbsp;&nbsp;<a target=f3 href=/cgi-bin/cgiman>LinuxÊÖ²á²éÑ¯</a><br>\n");
-	printf("&nbsp;&nbsp;<a href=bbsfind target=f3>ÎÄÕÂ²éÑ¯</a><br>\n");
+	    ("&nbsp;&nbsp;<a target=f3 href=/cgi-bin/cgiman>Linuxæ‰‹å†ŒæŸ¥è¯¢</a><br>\n");
+	printf("&nbsp;&nbsp;<a href=bbsfind target=f3>æ–‡ç« æŸ¥è¯¢</a><br>\n");
 	//printf
-	    ("&nbsp;&nbsp;<a target=f3 href=/cgi-bin/cgifreeip>IPµØÖ·²éÑ¯</a><br>\n");
-	printf("&nbsp;&nbsp;<a target=f3 href=bbsx?chm=1>ÏÂÔØ¾«»ªÇø</a><br>\n");
+	    ("&nbsp;&nbsp;<a target=f3 href=/cgi-bin/cgifreeip>IPåœ°å€æŸ¥è¯¢</a><br>\n");
+	printf("&nbsp;&nbsp;<a target=f3 href=bbsx?chm=1>ä¸‹è½½ç²¾ååŒº</a><br>\n");
 	printf
-	    ("&nbsp;&nbsp;<a target=f3 href=home/pub/index.html>³£ÓÃÏÂÔØ</a><br>\n");
+	    ("&nbsp;&nbsp;<a target=f3 href=home/pub/index.html>å¸¸ç”¨ä¸‹è½½</a><br>\n");
 	printf("</div>\n");
 	printf("<div class=r>");
 	printf
-	    ("&nbsp;&nbsp;<a target=f3 href=bbs0an?path=/groups/GROUP_0/PersonalCorpus>¸öÈËÎÄ¼¯Çø</a><br>\n");
-	printf("&nbsp;&nbsp;<a target=f3 href=bbsall>ËùÓĞÌÖÂÛÇø</a><br>\n");
+	    ("&nbsp;&nbsp;<a target=f3 href=bbs0an?path=/groups/GROUP_0/PersonalCorpus>ä¸ªäººæ–‡é›†åŒº</a><br>\n");
+	printf("&nbsp;&nbsp;<a target=f3 href=bbsall>æ‰€æœ‰è®¨è®ºåŒº</a><br>\n");
 	printf("<hr>");
 	printf("<table><tr><form action=home target=f3><td>&nbsp;&nbsp;"
 	       "<input type=text name=board maxlength=20 "
-	       "size=9 value=Ñ¡ÔñÌÖÂÛÇø onclick=\"this.select()\"></td></form></tr></table>\n");
-	printf("&nbsp;&nbsp;<a href='telnet:%s'>TelnetµÇÂ¼</a>\n", BBSHOST);
+	       "size=9 value=é€‰æ‹©è®¨è®ºåŒº onclick=\"this.select()\"></td></form></tr></table>\n");
+	printf("&nbsp;&nbsp;<a href='telnet:%s'>Telnetç™»å½•</a>\n", BBSHOST);
 	if (!loginok || isguest)
 		printf
-		    ("<br>&nbsp;&nbsp;<a href=\"javascript: openreg()\">ĞÂÓÃ»§×¢²á</a>\n");
+		    ("<br>&nbsp;&nbsp;<a href=\"javascript: openreg()\">æ–°ç”¨æˆ·æ³¨å†Œ</a>\n");
 	if (loginok && !isguest && !(currentuser.userlevel & PERM_LOGINOK)
 	    && !has_fill_form())
 		printf
-		    ("<br>&nbsp;&nbsp;<a target=f3 href=bbsform><font color=red>ÌîĞ´×¢²áµ¥</font></a>\n");
+		    ("<br>&nbsp;&nbsp;<a target=f3 href=bbsform><font color=red>å¡«å†™æ³¨å†Œå•</font></a>\n");
 	if (loginok && !isguest && HAS_PERM(PERM_ACCOUNTS))
 		printf
 		    ("<br>&nbsp;&nbsp;<a href=bbsscanreg target=f3>SCANREG</a>");
 	if (loginok && !isguest && HAS_PERM(PERM_SYSOP))	//add by mintbaggio@BMY for www SYSOP kick www user
-		printf("<br>&nbsp;&nbsp;<a href=kick target=f3>ÌßwwwÏÂÕ¾</a>");
-	//if(loginok && !isguest) printf("<br>&nbsp;&nbsp;<a href='javascript:openchat()'>bbs²è¹İ</a>");
+		printf("<br>&nbsp;&nbsp;<a href=kick target=f3>è¸¢wwwä¸‹ç«™</a>");
+	//if(loginok && !isguest) printf("<br>&nbsp;&nbsp;<a href='javascript:openchat()'>bbsèŒ¶é¦†</a>");
 	printf
-	    ("<br>&nbsp;&nbsp;<a href=bbsselstyle target=f3>»»¸ö½çÃæ¿´¿´</a>");
-	//printf ("<br>&nbsp;&nbsp;<a href='http://bug.ytht.org/' target=_BLANK>±¨¸æ Bug</a>");
+	    ("<br>&nbsp;&nbsp;<a href=bbsselstyle target=f3>æ¢ä¸ªç•Œé¢çœ‹çœ‹</a>");
+	//printf ("<br>&nbsp;&nbsp;<a href='http://bug.ytht.org/' target=_BLANK>æŠ¥å‘Š Bug</a>");
 	printf("<br><br><center><img src=/coco.gif>");
-	printf("<br><br><b>ÓÑÇéÁ´½Ó</b>");
-	printf("<br><br><a href='http://bbs.xsyu.edu.cn/' target=_BLANK>Î÷°²Ê¯ÓÍÑ§Ôºbbs</a>");
+	printf("<br><br><b>å‹æƒ…é“¾æ¥</b>");
+	printf("<br><br><a href='http://bbs.xsyu.edu.cn/' target=_BLANK>è¥¿å®‰çŸ³æ²¹å­¦é™¢bbs</a>");
 	printf("</div>");
 	printf("<script>if(isNS4) arrange();if(isOP)alarrangeO();</script>");
 	if (loginok && !isguest) {
 		if (HAS_PERM(PERM_LOGINOK) && !HAS_PERM(PERM_POST))
 			printf
-			    ("<script>alert('Äú±»·â½ûÁËÈ«Õ¾·¢±íÎÄÕÂµÄÈ¨ÏŞ, Çë²Î¿´sysop°æ¹«¸æ, ÆÚÂúºóÔÚsysop°æÉêÇë½â·â. ÈçÓĞÒìÒé, ¿ÉÔÚAppeal°æÌá³öÉêËß.')</script>\n");
+			    ("<script>alert('æ‚¨è¢«å°ç¦äº†å…¨ç«™å‘è¡¨æ–‡ç« çš„æƒé™, è¯·å‚çœ‹sysopç‰ˆå…¬å‘Š, æœŸæ»¡ååœ¨sysopç‰ˆç”³è¯·è§£å°. å¦‚æœ‰å¼‚è®®, å¯åœ¨Appealç‰ˆæå‡ºç”³è¯‰.')</script>\n");
 		mails(currentuser.userid, &i);
 		if (i > 0)
-			printf("<script>alert('ÄúÓĞĞÂĞÅ¼ş!')</script>\n");
+			printf("<script>alert('æ‚¨æœ‰æ–°ä¿¡ä»¶!')</script>\n");
 	}
 	// if(loginok&&currentuser.userdefine&DEF_ACBOARD)
 	//              printf("<script>window.open('bbsmovie','','left=200,top=200,width=600,height=240');</script>"); 

@@ -190,6 +190,10 @@ void footInfo(){
 	printf("        container.insertBefore(container.lastChild,container.firstChild);\n");
 	printf("}\n");
 	printf("setInterval(\"changeMsg()\",30000);\n");
+	//add by deepurple 2013/01/17
+	printf("function listAllMsg(){\n");
+	printf("    ");
+	printf("}\n");
 	printf("</SCRIPT>\n");
 }
 
