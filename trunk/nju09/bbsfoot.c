@@ -190,8 +190,10 @@ void footInfo(){
 	printf("        container.insertBefore(container.lastChild,container.firstChild);\n");
 	printf("}\n");
 	printf("setInterval(\"changeMsg()\",30000);\n");
-	//add by deepurple 2013/01/17
-	printf("function listAllMsg(){\n");
+	//add by deepurple 20130117
+	printf("function showAllMsg(){\n");
+	printf("    var container = document.getElementByID(\"msg_contain\");\n");
+	printf("    ");
 	printf("    ");
 	printf("}\n");
 	printf("</SCRIPT>\n");
